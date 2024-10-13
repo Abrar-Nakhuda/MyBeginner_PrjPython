@@ -18,11 +18,10 @@ while True:
 print("------RECEIPT------")
 
 for food in foods:
-    print(food, end = "/")
+    print(food)
 
 for price in costs:
     total += price
-    print(price, end = " ")
 
 
 print()
