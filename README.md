@@ -3,3 +3,4 @@
 2. Madlibs
 3. Weight convertor
 4. Temperture convertor
+5. Compound Interest Calc
