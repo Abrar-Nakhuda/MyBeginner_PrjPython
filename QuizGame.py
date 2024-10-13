@@ -1,0 +1,7 @@
+#QuizGame
+
+questions = ()
+
+options = ()
+
+answers = ()
