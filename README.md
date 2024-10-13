@@ -6,3 +6,4 @@
 5. Compound Interest Calc
 6. CountDownTimer
 7. Shopping Cart Program
+8. Quiz game
