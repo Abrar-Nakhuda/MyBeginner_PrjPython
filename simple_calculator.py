@@ -27,5 +27,4 @@ elif operator == "**":
     result = num1 ** num2
     print(f"{num1} ** {num2} equals {result}")
 else:
-    
     print(f" {operator} is an invalid operator")
