@@ -17,15 +17,17 @@ while True:
 
 print("------RECEIPT------")
 
-for food in foods:
-    print(food)
+#for food in foods:
+#    print(food)
 
-for price in costs:
+#for price in costs:
+#    total += price
+for food, price in zip(foods,costs):
+    print(f"{food}: ${price:.2f}")  # Print food with its corresponding price
     total += price
 
 
-print()
+
+print("-----------------------")
 print(f"your total is ${total}")
-
-
-print("-------------------")
+print("-----------------------")
