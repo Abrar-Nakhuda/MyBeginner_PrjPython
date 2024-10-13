@@ -1,7 +1,7 @@
 #WeightConvertor
 
 print("weight Convertor")
-Weight = float(input("how much do you weigh?: "))
+Weight = float(input("how much do you weigh?, enter 0 to quit: "))
 unit = input("Kgs or Lbs?: ").lower()
 
 if unit == "kgs":
