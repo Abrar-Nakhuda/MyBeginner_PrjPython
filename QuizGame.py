@@ -47,5 +47,5 @@ for guess in guesses:
 print()
 
 score = int(score / len(questions) * 100) 
-print(f" your total score is {score}")
+print(f"your total score is {score}!")
 print()
