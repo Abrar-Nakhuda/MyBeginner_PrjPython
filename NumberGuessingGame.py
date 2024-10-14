@@ -3,7 +3,7 @@
 import random
 
 lowest_num = 1
-highest_num = 100
+highest_num = 50
 answer =  random.randint(lowest_num, highest_num)
 
 guesses = 0
