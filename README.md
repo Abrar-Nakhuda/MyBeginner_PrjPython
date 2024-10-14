@@ -10,3 +10,4 @@
 9. Concession Stand
 10. Number Guessing Game
 11. Rock, Papers, Scissors Game
+12. Dice Roller Game
