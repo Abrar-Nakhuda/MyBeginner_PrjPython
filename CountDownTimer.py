@@ -34,7 +34,7 @@ counter = 0
 while counter <= the_timer:
     seconds = counter % 60
     minutes = (counter // 60) % 60
-    hours = (counter // 3600) % 24
+    hours = (counter // 3600) % 24 # 1 hour = 3600 seconds
     days = counter // 86400  # 1 day = 86400 seconds
 
     # Print time in "DD:HH:MM:SS" format
