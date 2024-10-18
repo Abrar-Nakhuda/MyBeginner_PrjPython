@@ -26,7 +26,7 @@ while True:
     try:
         score = float(input("Enter the student's score (0-100): "))
         if score < 0 or score > 100:
-            print(f"{score} is Invalid.")
+            print(f"{score} is Invalid, the number is out of range.")
         else:
             grade = get_grade(score)
             print(f"The student's grade is: {grade}")
