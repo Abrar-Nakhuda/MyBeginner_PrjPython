@@ -13,3 +13,4 @@
 12. Dice Roller Game
 13. Grades Calculator
 14. Banking Program
+15. Slot Machine
