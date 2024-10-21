@@ -1,7 +1,7 @@
 #Hangman game
-
+from Hangman_wordsList import words
 import random
-words = ("apple", "pear", "banana", "coconut", " pineapple")
+
 
 #dictionaty of keywords:()
 hangman_art = {0: ("   ",
