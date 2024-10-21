@@ -14,3 +14,4 @@
 13. Grades Calculator
 14. Banking Program
 15. Slot Machine
+16. encryption game
