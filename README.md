@@ -16,3 +16,6 @@
 15. Slot Machine
 16. encryption game
 17. Hangman game
+18. Alarm Clock sound
+19. Pokemon Api
+20. Digital Clock 
