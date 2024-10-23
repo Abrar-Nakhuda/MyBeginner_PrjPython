@@ -30,7 +30,7 @@ class DigitalClock(QWidget):
         self.setStyleSheet("background-color: hsl(231, 18%, 20%);")
 
         # font_id = QFontDatabase.addApplicationFont("MyFont.ttf")
-        #font_family = QFontDatabase.applicationFontFamilies(font_id)[0]
+        #font_family = QFontDatabase.applica tionFontFamilies(font_id)[0]
         #my_font = QFont(font_family, 150)
         #self.time_label.setFont(my_font)
 
