@@ -46,7 +46,7 @@ class StopWatch(QWidget):
         }
             QLabel {
                 font-size: 120px; 
-                background-color: hsl(136, 18%, 40%);
+                background-color: hsl(196, 18%, 40%);
                 border-radius: 20px;  
         }
     """)
